@@ -1,5 +1,5 @@
 # Scene-Collections
-## Portable Scene Collections for NSG and MXL
+## Portable Scene Collections for MXL
 ### Setup
 1. Download all files from the resource folder (ex. ``MXL_Studio_version/``)
 1. Select any portable json (ex. ``MXL_Studio_version_portable.json``)
