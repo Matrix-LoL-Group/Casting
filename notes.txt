@@ -1,0 +1,1 @@
+Streamlabs OBS is deprecated and not recommended anymore, make sure to transfer to OBS Studio. If you need help for that, DM me.
