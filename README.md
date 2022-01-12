@@ -12,6 +12,15 @@
   6. Click on the downwards arrow on the left vertical bar
   7. Press "Start video render"
 - Virtual Background Camera (in case you dont have green screen) - https://www.xsplit.com/vcam
+- Audio splitter - https://youtu.be/i1h62Bc9dpY
+- Playlist for Champion select
+  - Game 3 or 5 - https://www.youtube.com/watch?v=elvAkfKPAZU
+  - Game 2 - https://www.youtube.com/watch?v=4UERaqR1aU4
+  - Game 3 - https://www.youtube.com/watch?v=FlGtuqMf8GE
+  - Game 4 - https://www.youtube.com/watch?v=MVV1HMJ--_Y
+  - Game 5 - https://www.youtube.com/watch?v=lszgAFOSxjk
+  - Game 2 or 3 - https://www.youtube.com/watch?v=P6DwQBpTNMg
+  - Game 1 - https://www.youtube.com/watch?v=nXVvkgIvOSA 
 ### Setup
 1. Download all files from the resource folder (ex. ``MXL_Studio_version/``)
 1. Select any portable json (ex. ``MXL_Studio_version_portable.json``)
