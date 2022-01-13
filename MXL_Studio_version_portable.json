@@ -3804,7 +3804,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/Forme 1 - Copy.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/Forme 1 - Copy.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -3867,7 +3867,7 @@
                     "push-to-talk": false,
                     "push-to-talk-delay": 0,
                     "settings": {
-                        "image_path": "ROOTPATH/image-mask.png"
+                        "image_path": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/image-mask.png"
                     },
                     "sync": 0,
                     "versioned_id": "mask_filter_v2",
@@ -3888,7 +3888,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/MXL_Logo.PNG"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/MXL_Logo.PNG"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -3980,7 +3980,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/GTM.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/GTM.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -4005,7 +4005,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/MXL_Gentlemen_Logo_PNG.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/MXL_Gentlemen_Logo_PNG.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -4231,7 +4231,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/ALT vs GTM.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/ALT vs GTM.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -4256,7 +4256,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/MXL_Logo_2.PNG"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/MXL_Logo_2.PNG"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -4320,7 +4320,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/MXL_Tifon_Logo.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/MXL_Tifon_Logo.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -4345,7 +4345,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/man-silhouette-8.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/man-silhouette-8.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -4421,7 +4421,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/person.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/person.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -5397,7 +5397,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/ALT_Altera_Abyss_Logo_Green_BG.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/ALT_Altera_Abyss_Logo_Green_BG.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -5637,7 +5637,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/Forme 1 - Copy.png",
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/Forme 1 - Copy.png",
                 "linear_alpha": false,
                 "undo_sname": "Image 7",
                 "unload": false
@@ -5679,7 +5679,7 @@
                 "close_when_inactive": true,
                 "is_local_file": true,
                 "linear_alpha": false,
-                "local_file": "ROOTPATH/Lost Chapter _ Pentakill III_ Lost Chapter _ Riot Games Music.mp3",
+                "local_file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/Lost Chapter _ Pentakill III_ Lost Chapter _ Riot Games Music.mp3",
                 "looping": true,
                 "reconnect_delay_sec": 10,
                 "restart_on_activate": true,
@@ -5786,7 +5786,7 @@
                 "hw_decode": true,
                 "is_local_file": true,
                 "linear_alpha": false,
-                "local_file": "ROOTPATH/GBM vs FAC.mkv",
+                "local_file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/GBM vs FAC.mkv",
                 "looping": false,
                 "reconnect_delay_sec": 10,
                 "restart_on_activate": true,
@@ -6247,7 +6247,7 @@
                 "reroute_audio": false,
                 "restart_when_active": true,
                 "shutdown": true,
-                "url": "file:///ROOTPATH/text.html",
+                "url": "file:///C:/Users/Stevi/Downloads/Casting-main/Casting-main/text.html",
                 "webpage_control_level": 1,
                 "width": 2200
             },
@@ -7578,7 +7578,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/BG COLOR Noise.png",
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/BG COLOR Noise.png",
                 "linear_alpha": false,
                 "unload": false
             },
@@ -7808,7 +7808,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/PATTERNS.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/PATTERNS.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -7929,7 +7929,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/BG COLOR Noise.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/BG COLOR Noise.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -8055,7 +8055,7 @@
                 "close_when_inactive": true,
                 "is_local_file": true,
                 "linear_alpha": false,
-                "local_file": "ROOTPATH/160726_digital-data-streaming-loop_by_butlerm_preview.mp4",
+                "local_file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/160726_digital-data-streaming-loop_by_butlerm_preview.mp4",
                 "looping": true,
                 "reconnect_delay_sec": 10,
                 "restart_on_activate": true,
@@ -8592,7 +8592,7 @@
                     "push-to-talk-delay": 0,
                     "settings": {
                         "color": 4294967295,
-                        "image_path": "ROOTPATH/OfficeZoom_0001.jpg",
+                        "image_path": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/OfficeZoom_0001.jpg",
                         "type": "mask_color_filter.effect"
                     },
                     "sync": 0,
@@ -8898,7 +8898,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/CHATBOXhalf.png",
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/CHATBOXhalf.png",
                 "linear_alpha": false,
                 "undo_sname": "ChatBox",
                 "unload": false
@@ -9137,7 +9137,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/CHATBOX.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/CHATBOX.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -9588,7 +9588,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/LOGO.png",
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/LOGO.png",
                 "linear_alpha": false,
                 "unload": false
             },
@@ -9659,7 +9659,7 @@
                 "clear_on_media_end": true,
                 "is_local_file": true,
                 "linear_alpha": false,
-                "local_file": "ROOTPATH/video.webm",
+                "local_file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/video.webm",
                 "looping": true,
                 "reconnect_delay_sec": 10,
                 "restart_on_activate": true,
@@ -9760,7 +9760,7 @@
                 "clear_on_media_end": true,
                 "is_local_file": true,
                 "linear_alpha": false,
-                "local_file": "ROOTPATH/0001-0360.mp4",
+                "local_file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/0001-0360.mp4",
                 "looping": true,
                 "reconnect_delay_sec": 10,
                 "restart_on_activate": true,
@@ -10224,7 +10224,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/MXL Solo.jpg"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/MXL Solo.jpg"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -11396,7 +11396,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/vertical.jpg",
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/vertical.jpg",
                 "linear_alpha": false,
                 "unload": false
             },
@@ -11423,7 +11423,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/vertical.jpg"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/vertical.jpg"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -11448,7 +11448,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/vertical.jpg"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/vertical.jpg"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -11473,7 +11473,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/vertical.jpg"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/vertical.jpg"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -11524,7 +11524,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/vertical.jpg",
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/vertical.jpg",
                 "linear_alpha": false,
                 "unload": false
             },
@@ -11551,7 +11551,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/vertical.jpg"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/vertical.jpg"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -11576,7 +11576,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/vertical.jpg"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/vertical.jpg"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -11601,7 +11601,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/vertical.jpg"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/vertical.jpg"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -11626,7 +11626,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/vertical.jpg"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/vertical.jpg"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -11651,7 +11651,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/vertical.jpg"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/vertical.jpg"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -11676,7 +11676,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/vertical.jpg",
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/vertical.jpg",
                 "linear_alpha": false,
                 "unload": false
             },
@@ -12060,7 +12060,7 @@
                 "clear_on_media_end": true,
                 "is_local_file": true,
                 "linear_alpha": false,
-                "local_file": "ROOTPATH/0001-0200.mp4",
+                "local_file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/0001-0200.mp4",
                 "looping": true,
                 "reconnect_delay_sec": 10,
                 "restart_on_activate": true,
@@ -12293,7 +12293,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/ulta long.png",
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/ulta long.png",
                 "linear_alpha": false,
                 "unload": false
             },
@@ -13783,7 +13783,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/ACT.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/ACT.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -13808,7 +13808,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/ACTA.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/ACTA.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -13833,7 +13833,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/FTK.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/FTK.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -13858,7 +13858,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/FTK2.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/FTK2.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -13883,7 +13883,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/Kamikaze.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/Kamikaze.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -13908,7 +13908,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/Kamikaze2.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/Kamikaze2.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -13933,7 +13933,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/MXL_CCG_Zeta_Logo_PNG.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/MXL_CCG_Zeta_Logo_PNG.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -13958,7 +13958,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/MXL_CCG_Zeta_Logo2.PNG"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/MXL_CCG_Zeta_Logo2.PNG"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -13983,7 +13983,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/MXL_Nickelbackstreetbois.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/MXL_Nickelbackstreetbois.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -14008,7 +14008,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/MXL_Nickelbackstreetbois_Logo_PNG.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/MXL_Nickelbackstreetbois_Logo_PNG.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -14033,7 +14033,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/MXL_SG_Crackheads_Logo.PNG"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/MXL_SG_Crackheads_Logo.PNG"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -14058,7 +14058,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/MXL_SG_Crackheads_Logo.PNG.png",
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/MXL_SG_Crackheads_Logo.PNG.png",
                 "linear_alpha": false,
                 "unload": false
             },
@@ -14085,7 +14085,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/MXL_The_Defenders_Logo.PNG"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/MXL_The_Defenders_Logo.PNG"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -14110,7 +14110,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/MXL_The_Defenders_Logo.PNG.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/MXL_The_Defenders_Logo.PNG.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -14135,7 +14135,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/NRG_Ragnarok_Logo_4.PNG"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/NRG_Ragnarok_Logo_4.PNG"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -14160,7 +14160,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/NSG_Vikingfjord_Logo_10_Redlogo_2.PNG"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/NSG_Vikingfjord_Logo_10_Redlogo_2.PNG"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -14185,7 +14185,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/SubZero.PNG"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/SubZero.PNG"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -14210,7 +14210,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/UPR.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/UPR.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -14235,7 +14235,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/UPR2.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/UPR2.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -15660,7 +15660,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/2021.03.18-СМГ-12A-134.JPG"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/2021.03.18-СМГ-12A-134.JPG"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -15685,7 +15685,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/BannYoutube.png",
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/BannYoutube.png",
                 "linear_alpha": false,
                 "unload": false
             },
@@ -15741,7 +15741,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/studio2.jpg"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/studio2.jpg"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -15823,7 +15823,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/MXL_Fish_Gang_Logo.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/MXL_Fish_Gang_Logo.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -15950,7 +15950,7 @@
                 "clear_on_media_end": true,
                 "is_local_file": true,
                 "linear_alpha": false,
-                "local_file": "ROOTPATH/GBM vs FAC.mkv",
+                "local_file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/GBM vs FAC.mkv",
                 "looping": true,
                 "reconnect_delay_sec": 10,
                 "restart_on_activate": true,
@@ -15979,7 +15979,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/OfficeZoom_0001.jpg"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/OfficeZoom_0001.jpg"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -16090,7 +16090,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/FAC.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/FAC.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -16115,7 +16115,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/GBM.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/GBM.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -16237,7 +16237,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/BannYoutube.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/BannYoutube.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -16262,7 +16262,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "ROOTPATH/Forme 1 - Copy.png"
+                "file": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/Forme 1 - Copy.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -16316,7 +16316,7 @@
             "settings": {
                 "audio_fade_style": 0,
                 "hw_decode": false,
-                "path": "ROOTPATH/Jason Christ thats Jesus Bourne.webm",
+                "path": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/Jason Christ thats Jesus Bourne.webm",
                 "transition_point": 1300
             }
         },
@@ -16327,7 +16327,7 @@
                 "audio_fade_style": 1,
                 "hw_decode": true,
                 "invert_matte": false,
-                "path": "ROOTPATH/Stinger_60fps.webm",
+                "path": "C:/Users/Stevi/Downloads/Casting-main/Casting-main/Stinger_60fps.webm",
                 "track_matte_enabled": false,
                 "track_matte_layout": 1,
                 "transition_point": 1000
